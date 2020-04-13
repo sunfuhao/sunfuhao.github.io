@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/12/test-news/</loc>
+    
+    <lastmod>2020-04-12T05:38:12.010Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/12/Hexo%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2020-04-12T05:34:57.438Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-04-12T05:34:36.241Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-12T05:34:00.763Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-04-12T05:33:47.449Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/12/hello-world/</loc>
+    
+    <lastmod>2020-04-12T02:49:03.010Z</lastmod>
+    
+  </url>
+  
+</urlset>
